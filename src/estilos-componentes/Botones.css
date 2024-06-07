@@ -1,0 +1,22 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-family: Verdana, Tahoma, sans-serif, "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  border: 5px solid goldenrod;
+  border-radius: 5px;
+  margin: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00471b;
+}
+
+.boton-clic {
+  background-color: #1b1b32;
+}
+.boton-reiniciar {
+  background-color: #e41919;
+}
